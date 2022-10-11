@@ -1,0 +1,1 @@
+<img src="{{ url('assets/img/logo/logo-palembang.png') }}" alt="" width="120px">
